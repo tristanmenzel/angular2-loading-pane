@@ -1,0 +1,11 @@
+{
+  "ts": [
+    "src/**/*.ts"
+  ],
+  "styles": {
+    "app": [
+      "src/**/*.scss"
+    ]
+  },
+  "dest": "dist"
+}
